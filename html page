@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Tarea HTML de Gerald</title>
+ </head>
+  <body>
+    <div>
+      <h1 style="color:red;"> Gerald</h1>
+       <h3>Henry</h3>
+        <h4>tarea de HTML / CSS</h4>
+    </div>
+        <div>
+          <span>Mi comida favorita son todas las que tengan queso o carne!</span>
+           <a> href="http://www.restauranteestancia.com/" </a>
+        </div>
+           <div>
+             <ul>
+               <li>
+                 <img src="https://scontent.fgua3-3.fna.fbcdn.net/v/t1.18169-9/19029716_1718489091505848_416239758268125096_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=84a396&_nc_ohc=8EMvHkBBUy8AX8guxVX&_nc_ht=scontent.fgua3-3.fna&oh=00_AT-yaD-R-EwunTc3V5vyJia2OCMQwC4v69hmyOhq_FISjg&oe=62497884"/>
+               </li>
+               <li>
+                 <img src="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?k=20&m=938742222&s=612x612&w=0&h=X5AlEERlt4h86X7U7vlGz3bDaDDGQl4C3MuU99u2ZwQ=" />
+               </li>
+            </ul>
+    </body>
+ </html>
